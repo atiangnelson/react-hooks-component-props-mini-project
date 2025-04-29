@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App">
      <Header name="First Blog"/>
-     <About image="https://via.placeholder.com/215" about="Hello this is my first blog<"/>
+     <About image="https://via.placeholder.com/215" about="Hello this is my first blog"/>
      <Articlelist posts={posts}/>
     </div>
   );
